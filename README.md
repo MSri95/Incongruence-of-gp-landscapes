@@ -1,6 +1,6 @@
 # Incongruence-of-gp-landscapes
 
-This repository contains code used for the analysis in the following paper: https://www.biorxiv.org/content/10.1101/2022.02.01.478629v1.full
+This repository contains code used for the analysis in the following paper: (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010524)
   
   Run using Julia 1.5.2
   
